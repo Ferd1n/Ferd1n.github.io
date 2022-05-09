@@ -10,8 +10,6 @@ body {
 
     background-color: #ffffff;
 
-    background-color: #70c6c7;
-
 }
 
 .resume-content {
@@ -28,8 +26,6 @@ body {
 
     background-color: #000000;
 
-    background-color: #00204A;
-
 }
 
 .right-section {
@@ -37,8 +33,6 @@ body {
     height: 100%;
 
     background-color: #ee82ee;
-
-    background-color: #4B6982;
 
     border-radius: 0px 60px 0px 0px;
 }
@@ -111,8 +105,6 @@ body {
 
     color: #ffffff;
 
-    color: #2E86C1;
-
 }
 
 .skills ul {
@@ -126,6 +118,7 @@ body {
     display: flex;
     align-items: center;
     text-transform: uppercase;
+
 }
 
 .referance-name {
@@ -154,8 +147,6 @@ body {
 
     color: #000000;
 
-    color: #70C6C7;
-
     font-size: 40px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -173,10 +164,7 @@ body {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
-
     color: #000000;
-
-    color: #F1F8FD;
 
 }
 
@@ -196,10 +184,8 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-
     color: #000000;
 
-    color: #FDB44B;
 
     padding-bottom: .4rem;
 }
@@ -219,10 +205,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-
     color: #000000;
-
-    color: #FDB44B;
 
     padding-bottom: .4rem;
 }
@@ -233,10 +216,7 @@ body {
     font-size: 16px;
     letter-spacing: 1px;
     line-height: 1.5rem;
-
     border-left: 3px solid #000000;
-
-    border-left: 3px solid #a5a3a3;
 
     padding-left: 5px;
 }
